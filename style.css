@@ -169,6 +169,19 @@ article:after,
     padding: 50px !important;
 }
 
+.writrFont
+{
+font-family: 'Satisfy', cursive;
+font-size: 70px;
+padding : 0px 0px 0px 100px;
+}
+
+.writrFontSmall
+{
+font-family: 'Satisfy', cursive;
+font-size: 40px;
+padding : 0px 0px 0px 50px;
+}
 /* common -------------------------- */
 html {
     height: 100%;
