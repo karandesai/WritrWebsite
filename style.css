@@ -163,6 +163,11 @@ article:after,
     display: block;
 }
 
+.padding
+{
+
+    padding: 50px !important;
+}
 
 /* common -------------------------- */
 html {
