@@ -169,18 +169,28 @@ article:after,
     padding: 50px !important;
 }
 
-.writrFont
-{
-font-family: 'Satisfy', cursive;
-font-size: 70px;
-padding : 0px 0px 0px 100px;
+.footer {
+    text-align: center;
 }
 
-.writrFontSmall
-{
-font-family: 'Satisfy', cursive;
-font-size: 40px;
-padding : 0px 0px 0px 50px;
+.writrFont {
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
+    padding : 0px 0px 0px 100px;
+}
+
+.writrFooter {
+    font: 17px/26px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.writrFontSmall {
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    padding : 0px 0px 0px 50px;
+}
+
+#mainImages {
+    display: inline;
 }
 /* common -------------------------- */
 html {
